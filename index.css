@@ -236,7 +236,7 @@ main .grid-cell {
 }
 
 main .explore-button {
-  background-image: url("http://clipart-library.com/image_gallery2/Earth-Free-Download-PNG.png");
+  background-image: url("/assets/earth.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: white;
